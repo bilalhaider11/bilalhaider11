@@ -8,19 +8,19 @@
 
 ### *Serviecs I Offer*
 
-- 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Expert Python, Node.js development and consultancy for building robust, scalable backend systems.
+- 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Expert Python, Node.js development and consultancy for building robust, scalable backend systems.
 
-- 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Specialized Vue.js and React.js development and consultancy to create intuitive, responsive interfaces.
+- 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Specialized Vue.js and React.js development and consultancy to create intuitive, responsive interfaces.
 
-- 𝐀𝐈-𝐃𝐫𝐢𝐯𝐞𝐧 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧: Building smart scheduling, recommendation engines, and workflow optimizations using AI.
+- 𝗔𝗜-𝗱𝗿𝗶𝘃𝗲𝗻 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻: Building smart scheduling, recommendation engines, and workflow optimizations using AI.
 
-- 𝐋𝐋𝐌 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧: Utilizing OpenAI, Gemini, Claude and custom LLMs for AI-powered automation, chatbot, document processing, and intelligent search.
+- 𝗟𝗟𝗠 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Utilizing OpenAI, Gemini, Claude and custom LLMs for AI-powered automation, chatbot, document processing, and intelligent search.
 
-- 𝐄-𝐂𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬: Comprehensive e-commerce development tailored to meet your business objectives.
+- 𝗘-𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗲 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: Comprehensive e-commerce development tailored to meet your business objectives.
 
-- 𝐇𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞 & 𝐑𝐞𝐚𝐥 𝐄𝐬𝐭𝐚𝐭𝐞 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬: Specialized healthcare software development to enhance patient management and accessibility. Expert real estate platform development for seamless property listing and transaction workflows.
+- 𝗛𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲 & 𝗥𝗲𝗮𝗹 𝗘𝘀𝘁𝗮𝘁𝗲 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: Specialized healthcare software development to enhance patient management and accessibility. Expert real estate platform development for seamless property listing and transaction workflows.
 
-- 𝐂𝐮𝐬𝐭𝐨𝐦 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬: Customized software solutions designed to address unique business challenges.
+- 𝗖𝘂𝘀𝘁𝗼𝗺 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: Customized software solutions designed to address unique business challenges.
 
 
 
@@ -28,19 +28,19 @@
 
 ### *Core Competencies*
 
-𝐅𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: <br />
+𝗙𝘂𝗹𝗹𝘀𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: <br />
 Skilled in backend technologies, including Python, Django, Flask, FastAPI and Node.js, ensuring robust and scalable application architectures. Expertise in JavaScript/Typescript, Vue.js, React.js and Tailwind UI. Adept at creating responsive, user-friendly interfaces optimized for performance and accessibility.
 
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: <br />
+𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: <br />
 Experienced in database systems such as Supabase, MongoDB, Postgres, MySQL, and Redis, delivering secure and efficient data solutions.
 
-𝐀𝐈 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧𝐬: <br />
+𝗔𝗜 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻𝘀: <br />
 Experienced in integrating LLMs (Large Language Models), AI automation, and machine learning models into web applications. Skilled in OpenAI API, Anthropic and Gemini to build intelligent chatbots, AI-powered search, and automation-driven workflows. Capable of optimizing GraphQL and REST APIs to support AI-driven data processing and decision-making.
 
-𝐃𝐞𝐯𝐨𝐩𝐬 𝐚𝐧𝐝 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: <br />
+𝗗𝗲𝘃𝗼𝗽𝘀 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀: <br />
 Competent in AWS (Lambda, DevOps), Docker, CI/CD, and Google Cloud Platform, enabling seamless deployment, scaling, and maintenance of cloud-based applications.
 
-𝐒𝐀𝐀𝐒 & 𝐌𝐕𝐏 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: <br />
+𝗦𝗔𝗔𝗦 & 𝗠𝗩𝗣 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 <br />
 Specialized in developing SaaS platforms and MVPs to help startups and businesses rapidly bring ideas to market.
 
 
